@@ -1,0 +1,2 @@
+# Double-Propagation-Net-for-segmentation-and-tracking-of-material-microscopic-image-sequences-
+This design is based on deep learning technology and implements propagation segmentation  methods for sequential images. It addresses common issues in material microstructure image analysis with current models, and proposes DPU-Net, which is more suitable for video segmentation tasks, based on the concepts of WPU-Net and bidirectional propagation.
